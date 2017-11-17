@@ -27,6 +27,7 @@ public void printAdministratorMenu() {
     System.out.println("   ADMINISTRATOR BRUGERMENU:  ");
     System.out.println("");
     System.out.println("1) Redigér deltageroplysniner");
+    System.out.println("Test");
     System.out.println("2) Redigér holdoplysniner");
     System.out.println("3) Vis aktivitetsstatus");
     System.out.println("4) Vis oplysninger");
